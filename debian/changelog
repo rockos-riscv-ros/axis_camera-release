@@ -1,0 +1,142 @@
+ros-jazzy-axis-description (3.0.1-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Thu, 28 Nov 2024 16:00:00 -0000
+
+ros-jazzy-axis-description (3.0.0-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Mon, 25 Nov 2024 16:00:00 -0000
+
+ros-jazzy-axis-description (2.0.2-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Mon, 03 Jun 2024 16:00:00 -0000
+
+ros-jazzy-axis-description (2.0.1-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Thu, 23 May 2024 16:00:00 -0000
+
+ros-jazzy-axis-description (2.0.0-1trixie) trixie; urgency=high
+
+  * Initial release for ROS 2
+  * Contributors: Chris Iverach-Brereton, Mike Hosmar
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Wed, 22 May 2024 16:00:00 -0000
+
+ros-jazzy-axis-description (0.5.4-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Tue, 30 Jan 2024 16:00:00 -0000
+
+ros-jazzy-axis-description (0.5.3-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Sun, 14 Jan 2024 16:00:00 -0000
+
+ros-jazzy-axis-description (0.5.2-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Tue, 05 Dec 2023 16:00:00 -0000
+
+ros-jazzy-axis-description (0.5.1-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Tue, 21 Nov 2023 16:00:00 -0000
+
+ros-jazzy-axis-description (0.5.0-1trixie) trixie; urgency=high
+
+  * Initial release
+  * Add meshes & URDF files for a fixed dome camera, PTZ dome camera, and the Q62 PTZ camera
+  * Contributors: Chris Iverach-Brereton
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Tue, 14 Nov 2023 16:00:00 -0000
+
+ros-jazzy-axis-description (0.4.8-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Thu, 10 Aug 2023 16:00:00 -0000
+
+ros-jazzy-axis-description (0.4.7-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Wed, 31 May 2023 16:00:00 -0000
+
+ros-jazzy-axis-description (0.4.6-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Thu, 04 May 2023 16:00:00 -0000
+
+ros-jazzy-axis-description (0.4.5-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Wed, 29 Mar 2023 16:00:00 -0000
+
+ros-jazzy-axis-description (0.4.4-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Thu, 16 Mar 2023 16:00:00 -0000
+
+ros-jazzy-axis-description (0.4.3-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Sun, 21 Aug 2022 16:00:00 -0000
+
+ros-jazzy-axis-description (0.4.2-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Thu, 28 Jul 2022 16:00:00 -0000
+
+ros-jazzy-axis-description (0.4.1-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Wed, 15 Jun 2022 16:00:00 -0000
+
+ros-jazzy-axis-description (0.4.0-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Sun, 28 Nov 2021 16:00:00 -0000
+
+ros-jazzy-axis-description (0.3.0-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Thu, 24 May 2018 16:00:00 -0000
+
+ros-jazzy-axis-description (0.2.1-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Thu, 16 Nov 2017 16:00:00 -0000
+
+ros-jazzy-axis-description (0.2.0-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Tue, 05 May 2015 16:00:00 -0000
+
+ros-jazzy-axis-description (0.1.0-1trixie) trixie; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Wed, 30 Jul 2014 16:00:00 -0000
+
+
